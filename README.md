@@ -1,9 +1,9 @@
 # Mafia Run 
 ##  HyperCausal game in C# and Unity
 
-## Here the Game Play:
+## Here the Game Play link:
 
-https://github.com/Alishba-Siddique/Mafia-Run/assets/97811058/4881e76a-36a8-4c53-be0e-ea65445ba364
+https://www.loom.com/share/c28e2fae91f942629f65782a40329533
 
 ## Atifacts are in this link 
 
